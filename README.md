@@ -6,6 +6,5 @@ After installing the react native necessary module, `cd ios/` folder and run `po
 Last step: create an account on Mapbox and put your `access_token` key into the plist of the ios project.
 You can then run the project either from Xcode or from your terminal using react-native cli.
 
-If you have any question, you can reach me at hamza.elyousfi@may-day.org
-
+If you have any question, you can reach me at 113408@gmail.com
 Cheers!
